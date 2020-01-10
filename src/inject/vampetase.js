@@ -12,6 +12,7 @@
             'https://scontent.fbfh2-1.fna.fbcdn.net/v/t31.0-8/p720x720/1519253_706164299476214_1913572428346792546_o.jpg?_nc_cat=106&_nc_ohc=P8OL2NBBlZUAX9Zip11&_nc_ht=scontent.fbfh2-1.fna&_nc_tp=1&oh=9891e3f0b610430267aa3b511da09c76&oe=5EADD04C',
             'https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQEfmF4s89NPSQ%2Fprofile-displayphoto-shrink_200_200%2F0%3Fe%3D1583971200%26v%3Dbeta%26t%3DkJPSd_Sn_yMRXoIk7QLA-9Fy-KGkl_3QMKlXo2Aq7f8',
             'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlFfTKqoBFHwtwE2x0kA7UcODGngIG3R7cBohq2bR4nRhUNPquQ&s',
+            'https://media-exp1.licdn.com/dms/image/C4D03AQFLZx0BVEIIjg/profile-displayphoto-shrink_200_200/0?e=1583971200&v=beta&t=TmNmISIsZFDVC_U9Xm3oCFtpyozV_duSi5W87ZfZNYQ',
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
