@@ -10,6 +10,8 @@
             'https://scontent.fbfh2-1.fna.fbcdn.net/v/t31.0-8/14137989_1084133231681328_6713302579303044142_o.jpg?_nc_cat=102&_nc_ohc=wgLfYWa3trsAX-YRe08&_nc_ht=scontent.fbfh2-1.fna&oh=d1debe145d26a05321837675794f630c&oe=5EA06B88',
             'https://scontent.fbfh2-1.fna.fbcdn.net/v/t31.0-8/s960x960/15168784_1161454490615868_1214731058601174746_o.jpg?_nc_cat=110&_nc_ohc=tjsD0syZ_LUAX_VpMoP&_nc_ht=scontent.fbfh2-1.fna&_nc_tp=1&oh=d09adc57b5318e802c4a0f70ee9123ca&oe=5EAF7098',
             'https://scontent.fbfh2-1.fna.fbcdn.net/v/t31.0-8/p720x720/1519253_706164299476214_1913572428346792546_o.jpg?_nc_cat=106&_nc_ohc=P8OL2NBBlZUAX9Zip11&_nc_ht=scontent.fbfh2-1.fna&_nc_tp=1&oh=9891e3f0b610430267aa3b511da09c76&oe=5EADD04C',
+            'https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQEfmF4s89NPSQ%2Fprofile-displayphoto-shrink_200_200%2F0%3Fe%3D1583971200%26v%3Dbeta%26t%3DkJPSd_Sn_yMRXoIk7QLA-9Fy-KGkl_3QMKlXo2Aq7f8',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlFfTKqoBFHwtwE2x0kA7UcODGngIG3R7cBohq2bR4nRhUNPquQ&s',
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
