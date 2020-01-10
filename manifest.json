@@ -1,11 +1,11 @@
 {
-  "name": "Vampetase",
+  "name": "Glodznaiquer",
   "version": "1.0",
   "manifest_version": 2,
   "description": "Chrome extension to override all images in a page by Vampeta.",
   "homepage_url": "https://github.com/famoraes/vampetase",
-  "author": "Fabiano Moraes",
-  "short_name": "Vampetase",
+  "author": "Fabiano Moraes & Patrick Stival",
+  "short_name": "Glodznaik",
   "background": {
     "scripts": [
       "src/bg/background.js"
@@ -15,6 +15,14 @@
   "permissions": [
     "contentSettings"
   ],
+  "page_action": {
+    "default_icon": "crys/cryz2.jpeg"    
+  },
+  "icons": {
+    "16": "crys/cryz2.jpeg",
+    "48": "crys/cryz3.jpeg",
+    "128": "crys/cryz4.jpeg"
+  }, 
   "content_scripts": [
     {
       "matches": [
